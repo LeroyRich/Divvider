@@ -57,7 +57,7 @@ Quit Divvider. In its window-control permission pane, remove the old entry, add 
 
 ### Privacy
 
-Settings and saved placements stay on your Mac. Divvider does not require an account or include analytics. Local diagnostic logs help explain permission and window-placement issues. Update checks contact divvider.app; update downloads use GitHub. Automatic checks are optional.
+Settings and saved placements stay on your Mac. Divvider does not require an account or include analytics. Local diagnostic logs help explain permission and window-placement issues. Update checks contact divvider.app; update downloads use GitHub. Automatic checks are optional. See the [privacy policy](https://divvider.app/privacy/) for exactly what a check sends.
 
 ## Updates
 
