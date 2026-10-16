@@ -6,6 +6,8 @@ Divvider is a free window manager for Mac. Open a simple grid, choose a space, a
 
 **macOS 14 or later · Apple silicon · Free**
 
+**Initial public release planned as v0.9.0. The app and downloads are not yet published.**
+
 ![An illustrated desktop arranged with Notes on the left and two reference windows on the right.](assets/desktop.png)
 
 *Illustrated desktop. Each placement moves one focused window.*
@@ -58,9 +60,11 @@ Settings and saved placements stay on your Mac. Divvider does not require an acc
 
 ## Updates
 
+The planned initial public release is **v0.9.0**. The signed app and downloads are not published yet.
+
 [Download for Mac](#) · [Release notes and earlier versions](#)
 
-Download links are placeholders while the release repository is being prepared.
+The permanent Sparkle feed is planned at `https://divvider.app/updates/appcast.xml`. It will be published only after the signed release ZIP is uploaded and verified.
 
 ## Help and feedback
 
