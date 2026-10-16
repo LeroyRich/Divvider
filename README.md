@@ -1,6 +1,6 @@
 ![Divvider — Everything. In its place.](assets/banner.svg)
 
-[Download for Mac](#) · [Website](https://divvider.app) · [Getting started](#getting-started) · [Updates](#updates)
+[Download for Mac](#) · [Website](https://www.divvider.app) · [Getting started](#getting-started) · [Updates](#updates)
 
 Divvider is a free window manager for Mac. Open a simple grid, choose a space, and release to move and resize your window. Less arranging. More doing.
 
@@ -64,11 +64,11 @@ The planned initial public release is **v0.9.0**. The signed app and downloads a
 
 [Download for Mac](#) · [Release notes and earlier versions](#)
 
-The permanent Sparkle feed is planned at `https://divvider.app/updates/appcast.xml`. It will be published only after the signed release ZIP is uploaded and verified.
+The permanent Sparkle feed is planned at `https://www.divvider.app/updates/appcast.xml`. It will be published only after the signed release ZIP is uploaded and verified.
 
 ## Help and feedback
 
-Start with the [website help section](https://divvider.app/#help) or the guidance above. When reporting a problem, include:
+Start with the [website help section](https://www.divvider.app/#help) or the guidance above. When reporting a problem, include:
 
 - Your macOS and Divvider versions. **Copy App Info** in Divvider’s About tab helps collect the basics.
 - The affected app and the steps that led to the issue.
@@ -78,4 +78,4 @@ Leave private window contents out of reports. [GitHub issue tracker](#) — link
 
 ---
 
-[Divvider website](https://divvider.app) · Everything. In its place.
+[Divvider website](https://www.divvider.app) · Everything. In its place.
