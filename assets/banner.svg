@@ -1,6 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img">
 <title>Divvider — Everything. In its place.</title>
-<rect x="1" y="1" width="1198" height="418" rx="10" fill="#ffffff" stroke="#e5e5e5"/>
 <g transform="translate(54 43) scale(.31)"><g fill="#111111" transform="translate(23.04 22.04) scale(.82)"><rect x="40" y="40" width="48" height="48" rx="6"/><rect x="104" y="40" width="48" height="48" rx="6"/><rect x="168" y="40" width="48" height="48" rx="6"/><rect x="40" y="104" width="48" height="48" rx="6"/><rect x="40" y="168" width="48" height="48" rx="6"/><path fill-rule="evenodd" d="M112 104H208Q216 104 216 112V208Q216 216 208 216H112Q104 216 104 208V112Q104 104 112 104Z M130 128Q128 128 128 130V190Q128 192 130 192H190Q192 192 192 190V130Q192 128 190 128Z"/></g></g>
 <text x="143" y="103" font-family="-apple-system,Arial,sans-serif" font-size="29" font-weight="600" letter-spacing="-.8" fill="#151515">Divvider</text>
 <text x="77" y="227" font-family="-apple-system,Arial,sans-serif" font-size="64" font-weight="600" letter-spacing="-3" fill="#151515">Everything. In its place.</text>
