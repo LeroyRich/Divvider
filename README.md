@@ -1,4 +1,7 @@
-![Divvider — Everything. In its place.](assets/banner.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner.svg" alt="Divvider — Everything. In its place.">
+</picture>
 
 [Download v0.9.2 for Mac](https://github.com/LeroyRich/Divvider/releases/download/v0.9.2/Divvider-0.9.2-build33-arm64.zip) · [Website](https://divvider.app/) · [Getting started](#getting-started) · [Updates](#updates)
 
@@ -6,7 +9,10 @@ Divvider is a free window manager for Mac. Open a simple grid, choose a space, a
 
 **Version 0.9.2 · macOS 14 or later · Apple silicon · Free**
 
-![An illustrated desktop arranged with Notes on the left and two reference windows on the right.](assets/desktop.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/desktop-dark.png">
+  <img src="assets/desktop.png" alt="An illustrated desktop arranged with Notes on the left and two reference windows on the right.">
+</picture>
 
 *Illustrated desktop. Each placement moves one focused window.*
 
