@@ -71,7 +71,7 @@ Settings and saved placements stay on your Mac. Divvider does not require an acc
 
 Divvider asks once whether to check for updates automatically, and you can change that any time with **Automatic updates** in Settings → General. **Check for Updates…** there, or in the menu bar menu, checks on demand. Installation always requires your confirmation.
 
-Version 0.9.8 (build 40) continues the pre-1.0 testing series. The app is signed with Developer ID and notarized by Apple. Older supported macOS versions still need broader compatibility testing.
+Version 0.9.8 (build 41) continues the pre-1.0 testing series. The app is signed with Developer ID and notarized by Apple. Older supported macOS versions still need broader compatibility testing.
 
 ## Help and feedback
 
