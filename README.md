@@ -3,11 +3,11 @@
   <img src="assets/banner.svg" alt="Divvider — Everything. In its place.">
 </picture>
 
-[Download v0.9.8 for Mac](https://github.com/LeroyRich/Divvider/releases/download/v0.9.8/Divvider-0.9.8-build41-arm64.zip) · [Website](https://divvider.app/) · [Getting started](#getting-started) · [Updates](#updates)
+[Download v0.9.9 for Mac](https://github.com/LeroyRich/Divvider/releases/download/v0.9.9/Divvider-0.9.9-build42-arm64.zip) · [Website](https://divvider.app/) · [Getting started](#getting-started) · [Updates](#updates)
 
 Divvider is a free window manager for Mac. Open a simple grid, choose a space, and release to move and resize your window. Less arranging. More doing.
 
-**Version 0.9.8 · macOS 14 or later · Apple silicon · Free**
+**Version 0.9.9 · macOS 14 or later · Apple silicon · Free**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/desktop-dark.png">
@@ -31,7 +31,7 @@ Divvider is a free window manager for Mac. Open a simple grid, choose a space, a
 
 ## Getting started
 
-1. [Download Divvider 0.9.8](https://github.com/LeroyRich/Divvider/releases/download/v0.9.8/Divvider-0.9.8-build41-arm64.zip), unzip it, and move **Divvider.app** into **Applications**.
+1. [Download Divvider 0.9.9](https://github.com/LeroyRich/Divvider/releases/download/v0.9.9/Divvider-0.9.9-build42-arm64.zip), unzip it, and move **Divvider.app** into **Applications**.
 2. Open Divvider. Follow its setup guidance to allow window control in **System Settings → Privacy & Security**.
 3. Focus a window, press **Control + Option + D**, and drag across the grid. Release to place it.
 
@@ -48,8 +48,8 @@ The window-control permission is called **Accessibility** on earlier macOS versi
 
 The current build does not support Intel Macs.
 
-Download: `Divvider-0.9.8-build41-arm64.zip`
-SHA-256: `995221139c472a8ac5e2a39d60c97cd58cb0f1352d18d507fce3f667d9d54781`
+Download: `Divvider-0.9.9-build42-arm64.zip`
+SHA-256: `c528490d71fd98cf4c3de42b83ebf9fec2bcc84def3b3934b3c3e9844234d1a9`
 
 ## A few useful details
 
@@ -67,11 +67,11 @@ Settings and saved placements stay on your Mac. Divvider does not require an acc
 
 ## Updates
 
-[Download v0.9.8 for Mac](https://github.com/LeroyRich/Divvider/releases/download/v0.9.8/Divvider-0.9.8-build41-arm64.zip) · [Release notes and earlier versions](https://github.com/LeroyRich/Divvider/releases)
+[Download v0.9.9 for Mac](https://github.com/LeroyRich/Divvider/releases/download/v0.9.9/Divvider-0.9.9-build42-arm64.zip) · [Release notes and earlier versions](https://github.com/LeroyRich/Divvider/releases)
 
 Divvider asks once whether to check for updates automatically, and you can change that any time with **Automatic updates** in Settings → General. **Check for Updates…** there, or in the menu bar menu, checks on demand. Installation always requires your confirmation.
 
-Version 0.9.8 (build 41) continues the pre-1.0 testing series. The app is signed with Developer ID and notarized by Apple. Older supported macOS versions still need broader compatibility testing.
+Version 0.9.9 (build 42) continues the pre-1.0 testing series. The app is signed with Developer ID and notarized by Apple. Older supported macOS versions still need broader compatibility testing.
 
 ## Help and feedback
 
